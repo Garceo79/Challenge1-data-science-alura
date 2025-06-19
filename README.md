@@ -4,19 +4,26 @@ INFORME FINAL DE TIENDAS - Challenge ALura Store
 ═══════════════════════════════════════════════════════════
 
 ✦ ANÁLISIS EXPLORATORIO DE DATOS (EDA) ✦
-Este proyecto presenta un análisis exploratorio de datos (EDA) aplicado a cuatro tiendas, utilizando Python y bibliotecas estándar como Pandas, Matplotlib y NumPy. El objetivo es obtener métricas clave sobre facturación, productos vendidos, satisfacción de clientes y costos de envío.
+Este proyecto presenta un análisis exploratorio de datos (EDA) aplicado a cuatro tiendas, utilizando Python y bibliotecas estándar como:
+
+- Pandas
+- Matplotlib
+- NumPy
+
+El objetivo es obtener métricas clave sobre facturación, productos vendidos, satisfacción de clientes y costos de envío.
 
 ▌ÍNDICE DE CONTENIDOS
 ────────────────────────────
 
-Descripción del proyecto
-Requisitos del sistema
-Instrucciones de instalación
-Ejecución del análisis
-Estructura del análisis
-Posibles problemas y soluciones
-Créditos
-1. ▌DESCRIPCIÓN DEL PROYECTO
+- Descripción del proyecto
+- Requisitos del sistema
+- Instrucciones de instalación
+- Ejecución del análisis
+- Estructura del análisis
+- Posibles problemas y soluciones
+- Créditos
+
+▌1. DESCRIPCIÓN DEL PROYECTO
 ────────────────────────────────────
 
 Se importan datos desde archivos CSV alojados en GitHub, correspondientes a cuatro:
@@ -25,16 +32,18 @@ tienda_1.csv
 tienda_2.csv  
 tienda_3.csv  
 tienda_4.csv  
+
 A partir de estos datos, se realiza un análisis comparativo para identificar tendencias y comportamientos comerciales clave.
 
 Variables analizadas:
 
-Precio de productos
-Categoría de productos
-Calificaciones de clientes
-Costos de envío
-Frecuencia de venta por producto
-2. ▌REQUISITOS DEL SISTEMA
+- Precio de productos
+- Categoría de productos
+- Calificaciones de clientes
+- Costos de envío
+- Frecuencia de venta por producto
+
+▌2. REQUISITOS DEL SISTEMA
 ────────────────────────────────────
 
 Lenguaje y entorno sugerido:
@@ -48,14 +57,16 @@ Bibliotecas necesarias:
 
 Pandas	Matplotlib	NumPy
 Pandas logo	Matplotlib logo	NumPy logo
-3. ▌INSTRUCCIONES DE INSTALACIÓN
+
+▌3. INSTRUCCIONES DE INSTALACIÓN
 ────────────────────────────────────────────
 
 Cloná este repositorio o descargá los archivos del proyecto.
 Abrí el archivo principal (por ejemplo, AluraStoreLatam.ipynb) en tu entorno de desarrollo.
 Verificá que las bibliotecas necesarias estén instaladas.
 Ejecutá las celdas en orden para visualizar cada parte del análisis.
-4. ▌EJECUCIÓN DEL ANÁLISIS
+
+▌4. EJECUCIÓN DEL ANÁLISIS
 ───────────────────────────────────────
 
 Cada sección del código está comentada para facilitar su comprensión.
@@ -67,7 +78,7 @@ El análisis incluye los siguientes puntos destacados:
 ▸ Producto más y menos vendido por tienda (comparativo con etiquetas)
 ▸ Costo de envío promedio por tienda (barras simples)
 
-5. ▌ESTRUCTURA DEL ANÁLISIS
+▌5. ESTRUCTURA DEL ANÁLISIS
 ────────────────────────────────────────
 
 El proyecto se organiza en cinco bloques principales:
@@ -79,7 +90,7 @@ Evaluación de satisfacción del cliente
 Estudio de costos y volumen de productos
 Todos los gráficos generados ayudan a interpretar visualmente los resultados.
 
-6. ▌POSIBLES PROBLEMAS Y SOLUCIONES
+▌6. POSIBLES PROBLEMAS Y SOLUCIONES
 ─────────────────────────────────────────────────────
 
 ◉ Los gráficos no se muestran
@@ -92,7 +103,8 @@ Todos los gráficos generados ayudan a interpretar visualmente los resultados.
 → Ejecutá nuevamente el comando:
 
 pip install pandas matplotlib numpy
-7. ▌CRÉDITOS
+
+▌7. CRÉDITOS
 ────────────────────
 
 Este análisis fue desarrollado como parte del Challenge Data Science LATAM, organizado por Alura, empleando datos públicos simulados con fines educativos.
@@ -100,44 +112,8 @@ Este análisis fue desarrollado como parte del Challenge Data Science LATAM, org
 Autor:
 
 
-Miguel Angel Ajhuacho
+Sinoe Geovanni Arceo López
 Contacto profesional:
 
-GitHub: @MigXDev
-LinkedIn: Miguee
 About
 Este proyecto presenta un análisis exploratorio de datos (EDA) aplicado a cuatro tiendas, utilizando Python y bibliotecas estándar como Pandas, Matplotliby NumPy. El objetivo es obtener métricas clave sobre facturación, productos vendidos, satisfacción de clientes y costos de envío.
-
-Topics
-data-science
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Deployments
-2
- github-pages yesterday
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
