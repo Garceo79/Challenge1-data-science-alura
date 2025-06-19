@@ -113,7 +113,6 @@ Autor:
 
 
 Sinoe Geovanni Arceo López
-Contacto profesional:
 
 About
 Este proyecto presenta un análisis exploratorio de datos (EDA) aplicado a cuatro tiendas, utilizando Python y bibliotecas estándar como Pandas, Matplotliby NumPy. El objetivo es obtener métricas clave sobre facturación, productos vendidos, satisfacción de clientes y costos de envío.
